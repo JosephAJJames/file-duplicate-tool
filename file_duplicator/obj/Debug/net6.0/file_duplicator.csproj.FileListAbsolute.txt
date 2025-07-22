@@ -1,0 +1,15 @@
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\bin\Debug\net6.0\file_duplicator.exe
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\bin\Debug\net6.0\file_duplicator.deps.json
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\bin\Debug\net6.0\file_duplicator.runtimeconfig.json
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\bin\Debug\net6.0\file_duplicator.dll
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\bin\Debug\net6.0\file_duplicator.pdb
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\obj\Debug\net6.0\file_duplicator.csproj.AssemblyReference.cache
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\obj\Debug\net6.0\file_duplicator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\obj\Debug\net6.0\file_duplicator.AssemblyInfoInputs.cache
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\obj\Debug\net6.0\file_duplicator.AssemblyInfo.cs
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\obj\Debug\net6.0\file_duplicator.csproj.CoreCompileInputs.cache
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\obj\Debug\net6.0\file_duplicator.dll
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\obj\Debug\net6.0\refint\file_duplicator.dll
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\obj\Debug\net6.0\file_duplicator.pdb
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\obj\Debug\net6.0\file_duplicator.genruntimeconfig.cache
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\obj\Debug\net6.0\ref\file_duplicator.dll
