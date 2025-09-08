@@ -1,0 +1,2 @@
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\bin\Release\net6.0\win-x64\publish\file_duplicator.pdb
+C:\Users\JoeCe\OneDrive\Documents\file_duplicator\file_duplicator\bin\Release\net6.0\win-x64\publish\file_duplicator.exe
