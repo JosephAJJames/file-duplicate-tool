@@ -59,7 +59,7 @@ public class Hasher
         string targetFolder = Path.Combine(Folder_Name, "Duplicates");
         for (int x = 0; x < file_sigs.Count - 1; x++)
         {
-            string org_path = (string)file_sigs[x];
+            string org_path = file_sigs[x];
             string file_Name = Path.GetFileName(org_path);
             string dest = Path.Combine(targetFolder, file_Name);
 
