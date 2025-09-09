@@ -8,7 +8,7 @@ public class Hasher
 {
     private Dictionary<string, int> hash_to_frequeny = new Dictionary<string, int>();
 
-    private Dictionary<string, ArrayList> hash_to_name = new Dictionary<string, ArrayList>();
+    private Dictionary<string, List<string>> hash_to_name = new Dictionary<string, List<string>>();
     public void Run(String Folder_Name)
     {
 
@@ -32,7 +32,7 @@ public class Hasher
         List<string> file_sigs = this.get_duplicates();
         foreach (string file_sig in file_sigs)
         {
-            ArrayList files_to_be_deleted = this.hash_to_name[file_sig];
+            List<string> files_to_be_deleted = this.hash_to_name[file_sig];
             delete_files(files_to_be_deleted, Folder_Name);
         }
 
@@ -43,7 +43,7 @@ public class Hasher
         if (!hash_to_name.ContainsKey(hash))
         {
 
-            ArrayList list = new ArrayList();
+            List<string> list = new List<string>();
             list.Add(name);
             hash_to_name[hash] = list;
         }
@@ -54,7 +54,7 @@ public class Hasher
         }
     }
 
-    public void delete_files(ArrayList file_sigs, string Folder_Name)
+    public void delete_files(List<string> file_sigs, string Folder_Name)
     {
         string targetFolder = Path.Combine(Folder_Name, "Duplicates");
         for (int x = 0; x < file_sigs.Count - 1; x++)
